@@ -1,0 +1,2 @@
+Para la aplicación, digitar un número entero, que representa el dia que se evaluara el 
+flujo de pasajeros en las estaciones mencionadas.
